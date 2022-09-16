@@ -1,0 +1,17 @@
+D:\Classic Snake Games\bin\Debug\net6.0-windows\Snake Games.exe
+D:\Classic Snake Games\bin\Debug\net6.0-windows\Snake Games.deps.json
+D:\Classic Snake Games\bin\Debug\net6.0-windows\Snake Games.runtimeconfig.json
+D:\Classic Snake Games\bin\Debug\net6.0-windows\Snake Games.dll
+D:\Classic Snake Games\bin\Debug\net6.0-windows\ref\Snake Games.dll
+D:\Classic Snake Games\bin\Debug\net6.0-windows\Snake Games.pdb
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Classic_Snake_Games.MainForm.resources
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Classic_Snake_Games.Properties.Resources.resources
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.csproj.GenerateResource.cache
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.GeneratedMSBuildEditorConfig.editorconfig
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.AssemblyInfoInputs.cache
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.AssemblyInfo.cs
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.csproj.CoreCompileInputs.cache
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.dll
+D:\Classic Snake Games\obj\Debug\net6.0-windows\ref\Snake Games.dll
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.pdb
+D:\Classic Snake Games\obj\Debug\net6.0-windows\Snake Games.genruntimeconfig.cache
